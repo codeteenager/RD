@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,O as n}from"./chunks/framework.fec80089.js";const F=JSON.parse('{"title":"ELK","description":"","frontmatter":{},"headers":[],"relativePath":"guide/elk.md","lastUpdated":1681181612000}'),e={name:"guide/elk.md"},p=n("",89),o=[p];function t(c,r,i,d,h,u){return l(),a("div",null,o)}const D=s(e,[["render",t]]);export{F as __pageData,D as default};
